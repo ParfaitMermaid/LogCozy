@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="O 1.0.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="Log Cozy.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1"
+     inkscape:cx="-257.5"
+     inkscape:cy="510"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-224.72313 : -72.150703 : 0"
+       inkscape:vp_y="-9.2865943 : -1064.1383 : 0"
+       inkscape:vp_z="236.02167 : 0 : 0"
+       inkscape:persp3d-origin="89.295913 : 688.74681 : 1"
+       id="perspective3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         style="display:inline;fill:black;fill-rule:evenodd;stroke:black;stroke-width:0;stroke-linejoin:round"
+         d="M 160,224 H 224 V 247.4256 L 192,256 224,264.5744 V 288 H 160 Z"
+         id="path9"
+         inkscape:label="c Clip" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer G"
+     style="display:inline">
+    <path
+       style="display:inline;fill:black;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;paint-order:normal"
+       d="M 256,76 M 256,68 A 160,168 0 0 1 416,236 H 352 A 96,152 0 0 0 160,236 V 276 A 96,152 0 0 0 352,276 V 278 286 A 32,8 0 0 0 320,278 V 276 H 352 416 448 V 278 A 32,8 0 0 0 416,286 V 278 276 436 434 402 A 8,32 0 0 0 424,434 V 436 H 416 352 344 V 434 A 8,32 0 0 0 352,402 V 434 436 276 H 416 A 160,168 0 0 1 96,276 V 236 A 160,168 0 0 1 256,68 Z"
+       id="path3"
+       inkscape:label="G" />
+    <path
+       style="display:inline;fill:black;fill-rule:evenodd;stroke:black;stroke-width:0;stroke-linejoin:round"
+       d="M 416,76 H 424 V 78 A 8,32 0 0 0 416,110 V 78 76 436 434 402 A 8,32 0 0 0 424,434 V 436 H 416 414 V 76 Z"
+       id="path4-2"
+       inkscape:label="Outer Right Serif" />
+    <path
+       style="display:inline;fill:black;fill-rule:evenodd;stroke:black;stroke-width:0;stroke-linejoin:round"
+       d="M 96,76 H 104 V 78 A 8,32 0 0 0 96,110 V 78 76 436 434 402 A 8,32 0 0 0 104,434 V 436 H 96 Z"
+       id="path4"
+       inkscape:label="Inner Left Serif" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer O"
+     style="display:inline">
+    <path
+       style="display:inline;fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;paint-order:normal"
+       d="M 346.50967,346.50967 M 374.79394,374.79394 A 168,160 45 0 1 137.20606,137.20606 168,160 45 0 1 374.79394,374.79394 M 363.48023,363.48023 A 152,96 45 0 1 148.51977,148.51977 152,96 45 0 1 363.48023,363.48023 Z"
+       id="path2"
+       inkscape:label="O" />
+    <path
+       style="display:none;fill:black;fill-rule:evenodd;stroke:black;stroke-width:0;stroke-linejoin:round"
+       d="M 96,96 H 416 414 382 A 32,8 0 0 0 414,88 H 416 V 96 416 H 96 88 V 414 A 8,32 0 0 0 96,382 V 414 416 Z M 98,98 H 96 416 V 96 416 400 A 16,16 0 0 1 400,416 H 416 96 98 V 96 98 114 A 16,16 0 0 1 114,98 Z"
+       id="path5"
+       inkscape:label="O Serif" />
+  </g>
+  <g
+     inkscape:label="Layer L"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       style="display:inline;fill:black;fill-rule:nonzero;stroke:black;stroke-width:0;stroke-linejoin:round"
+       d="M 352,226 A 40,37.5 0 0 1 392,263.5 V 286 H 376 V 263.5 A 40,37.5 0 0 1 416,226 V 241 A 24,22.5 0 0 0 392,263.5 V 286 H 376 V 263.5 A 24,22.5 0 0 0 352,241 Z"
+       id="path10-1"
+       inkscape:label="y" />
+    <path
+       style="display:inline;fill:black;fill-rule:evenodd;stroke:black;stroke-width:0;stroke-linejoin:round"
+       d="M 295,226 H 345 L 313,286 A 32,30 0 0 0 345,256 V 286 H 295 L 327,226 A 32,30 0 0 0 295,256 Z"
+       id="path10"
+       inkscape:label="z" />
+    <path
+       style="display:inline;fill:black;fill-rule:evenodd;stroke:black;stroke-width:0;stroke-linejoin:round"
+       d="M 256,224 A 32,32 0 0 1 256,288 32,32 0 0 1 256,224 V 240 A 16,16 0 0 1 256,272 16,16 0 0 1 256,240 Z"
+       id="path6-8"
+       inkscape:label="o" />
+    <path
+       style="display:inline;fill:black;fill-rule:evenodd;stroke:black;stroke-width:0;stroke-linejoin:round"
+       d="M 192,224 A 32,32 0 0 1 192,288 32,32 0 0 1 192,224 V 240 A 16,16 0 0 1 192,272 16,16 0 0 1 192,240 Z"
+       id="path6"
+       inkscape:label="c"
+       clip-path="url(#clipPath8)" />
+    <path
+       style="display:inline;fill:black;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;paint-order:normal"
+       d="M 128,76 H 160 168 V 78 A 8,32 0 0 0 160,110 V 78 76 436 H 96 V 428 396 A 128,32 0 0 0 224,428 H 96 128 384 352 A 64,64 0 0 0 416,364 V 428 436 H 384 128 96 88 V 434 A 8,32 0 0 0 96,402 V 434 436 76 78 110 A 8,32 0 0 0 88,78 V 76 H 96 Z"
+       id="path1"
+       inkscape:label="L" />
+    <path
+       id="path4-8"
+       style="display:inline;fill:black;fill-rule:evenodd;stroke:black;stroke-width:0;stroke-linejoin:round"
+       inkscape:label="Inner Right Serif"
+       d="M 408,76 V 78 A 8,32 0 0 1 416,110 V 76 Z M 416,402 A 8,32 0 0 1 408,434 V 436 H 416 Z" />
+    <path
+       id="path4-8-1"
+       style="display:inline;fill:black;fill-rule:evenodd;stroke:black;stroke-width:0;stroke-linejoin:round"
+       inkscape:label="Outer Left Serif"
+       d="M 88,76 V 78 A 8,32 0 0 1 96,110 V 76 402 A 8,32 0 0 1 88,434 V 436 H 98 V 76 Z" />
+  </g>
+</svg>
